@@ -1,4 +1,4 @@
-#include <iostream> //fdss
+#include <iostream>  //git hub
 #include <cmath>
 using namespace std;
 int main()
